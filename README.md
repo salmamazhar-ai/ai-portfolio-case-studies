@@ -29,9 +29,14 @@ An image-based pose classification model trained with Teachable Machine, with no
 📄 [Read the case study](Salma_Teachable_Machine_Case_Study.pdf)
 
 ---
+### 5. Accordé: Perfume Website with an AI Fragrance Advisor (Lovable + Zapier RAG Chatbot)
+A luxury perfume storefront built with Lovable.dev, with a Zapier chatbot that answers only from its own knowledge base, recommends one or two perfumes with a reason, and hands over to support when unsure.
 
+🌐 [Live website](https://accordfragrancehouse.lovable.app)
+🤖 [Try the Fragrance Advisor](https://accord-fragrance-advisor.zapier.app/chat)
+📄 [Read the case study](Accorde_Fragrance_Advisor_Case_Study.pdf)
 ## Tools Used
-Zapier · n8n · OpenAI · Google Forms · Google Sheets · Gmail · Visily · Google Teachable Machine · Miro
+Zapier · n8n · OpenAI · Google Forms · Google Sheets · Gmail · Visily · Google Teachable Machine · Miro · Lovable.dev
 
 ## About Me
 I bring a teaching and science background to AI: structured thinking, clear explanations, and a focus on real learners.
