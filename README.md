@@ -11,7 +11,7 @@ This repository contains case studies of AI and automation projects I built hand
 ### 1. Student Assignment Notification Automation (Zapier)
 Google Forms → Google Sheets → Zapier → Gmail. When a student submits an assignment, they get an automatic confirmation email.
 
-📄 [Read the case study](Salma_Mazhar_Case_Study.pdf)
+📄 [Read the case study](Student_Assignment_Notification_Workflow%20%281%29.pdf)
 
 ### 2. BizGrow AI Agent (n8n)
 Form trigger → AI Agent (OpenAI Chat Model + Memory) → Gmail. An AI agent that reads a form submission and sends a personalised email reply.
@@ -28,17 +28,19 @@ An image-based pose classification model trained with Teachable Machine, with no
 
 📄 [Read the case study](Salma_Teachable_Machine_Case_Study.pdf)
 
----
 ### 5. Accordé: Perfume Website with an AI Fragrance Advisor (Lovable + Zapier RAG Chatbot)
 A luxury perfume storefront built with Lovable.dev, with a Zapier chatbot that answers only from its own knowledge base, recommends one or two perfumes with a reason, and hands over to support when unsure.
 
 🌐 [Live website](https://accordfragrancehouse.lovable.app)
 🤖 [Try the Fragrance Advisor](https://accord-fragrance-advisor.zapier.app/chat)
 📄 [Read the case study](Accorde_Fragrance_Advisor_Case_Study.pdf)
+
+---
+
 ## Tools Used
-Zapier · n8n · OpenAI · Google Forms · Google Sheets · Gmail · Visily · Google Teachable Machine · Miro · Lovable.dev
+Zapier · n8n · OpenAI · Lovable.dev · Google Forms · Google Sheets · Gmail · Visily · Google Teachable Machine · Miro
 
 ## About Me
 I bring a teaching and science background to AI: structured thinking, clear explanations, and a focus on real learners.
 
-📍 Open to online tutoring and AI/automation freelance projects. 
+📍 Open to online tutoring and AI/automation freelance projects.
