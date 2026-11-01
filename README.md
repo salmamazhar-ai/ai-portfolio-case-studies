@@ -35,10 +35,17 @@ A luxury perfume storefront built with Lovable.dev, with a Zapier chatbot that a
 🤖 [Try the Fragrance Advisor](https://accord-fragrance-advisor.zapier.app/chat)
 📄 [Read the case study](Accorde_Fragrance_Advisor_Case_Study.pdf)
 
----
+6. BrightMind Voice Receptionist (ElevenLabs AI Voice Agent)
+
+An AI voice and chat receptionist for a fictional online tutoring academy. It answers parents' questions about subjects, grades, timings and fees, collects the child's subject, day, time and the parent's name, and offers a free 30-minute demo class, then hands over to a human to confirm.
+
+Tool: ElevenLabs Agents (voice: Eric, LLM: DeepSeek Flash 4.1)
+Skills shown: system prompt writing, conversation flow design, test scenarios, honest human handoff
+Tested in: ElevenLabs preview chat (not deployed to a phone number)
+Case study: BrightMind_Voice_Agent_Case_Study.pdf
 
 ## Tools Used
-Zapier · n8n · OpenAI · Lovable.dev · Google Forms · Google Sheets · Gmail · Visily · Google Teachable Machine · Miro
+Zapier · n8n · OpenAI · Lovable.dev · Google Forms · Google Sheets · Gmail · Visily · Google Teachable Machine · Miro · ElevenLabs
 
 ## About Me
 I bring a teaching and science background to AI: structured thinking, clear explanations, and a focus on real learners.
